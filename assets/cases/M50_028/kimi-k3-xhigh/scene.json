@@ -1,0 +1,1 @@
+{"fps": 24, "frame_start": 1, "frame_end": 60, "frame_step": 2, "shots": [{"frame": 1, "camera": "cam1_living_from_dining"}, {"frame": 13, "camera": "cam2_kitchen"}, {"frame": 25, "camera": "cam3_desk"}, {"frame": 37, "camera": "cam4_coffeetable"}, {"frame": 49, "camera": "cam5_to_kitchen"}], "objects": 205, "color_from": "material", "bytes": 230180}
