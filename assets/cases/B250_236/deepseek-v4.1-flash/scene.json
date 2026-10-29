@@ -1,0 +1,1 @@
+{"fps": 24, "frame_start": 1, "frame_end": 1080, "frame_step": 2, "shots": [{"frame": 1, "camera": "Cam_S01_handheld"}, {"frame": 1026, "camera": "Cam_S02_party"}], "objects": 1802, "color_from": "material", "bytes": 3555792}
