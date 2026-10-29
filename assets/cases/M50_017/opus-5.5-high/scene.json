@@ -1,0 +1,1 @@
+{"fps": 24, "frame_start": 1, "frame_end": 288, "frame_step": 2, "shots": [{"frame": 1, "camera": "CAM1_Ground"}, {"frame": 138, "camera": "CAM2_Overhead"}, {"frame": 258, "camera": "CAM3_LowRear"}], "objects": 227, "color_from": "material", "bytes": 531396}

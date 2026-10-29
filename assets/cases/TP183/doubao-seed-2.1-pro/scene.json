@@ -1,0 +1,1 @@
+{"fps": 24, "frame_start": 1, "frame_end": 1056, "frame_step": 2, "shots": [{"frame": 1, "camera": "cam_1"}, {"frame": 193, "camera": "cam_2"}, {"frame": 289, "camera": "cam_3"}, {"frame": 433, "camera": "cam_4"}, {"frame": 601, "camera": "cam_5"}, {"frame": 697, "camera": "cam_6"}, {"frame": 889, "camera": "cam_7"}], "objects": 180, "color_from": "material", "bytes": 414120}
