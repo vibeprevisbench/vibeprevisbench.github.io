@@ -2,6 +2,8 @@
 
 Official project repository: **[vibeprevisbench/vibeprevisbench](https://github.com/vibeprevisbench/vibeprevisbench)**. This repository publishes the project website.
 
+<p align="center"><strong>KlingAI Research</strong></p>
+
 <p align="center">
   <a href="https://vibeprevisbench.github.io/"><img src="https://img.shields.io/badge/Project-Homepage-4F7CFF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project homepage"></a>
   <a href="./VibePrevisBench.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Paper (PDF)"></a>
