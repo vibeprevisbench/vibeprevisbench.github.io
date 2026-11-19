@@ -7,7 +7,7 @@ Official project repository: **[vibeprevisbench/vibeprevisbench](https://github.
 <p align="center">
   <a href="https://vibeprevisbench.github.io/"><img src="https://img.shields.io/badge/Project-Homepage-4F7CFF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Project homepage"></a>
   <a href="./VibePrevisBench.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="Paper (PDF)"></a>
-  <a href="#paper"><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv: Coming soon"></a>
+  <a href="https://arxiv.org/abs/2611.15789"><img src="https://img.shields.io/badge/arXiv-b31b1b?style=flat-square&amp;logo=arxiv&amp;logoColor=white" alt="arXiv"></a>
   <a href="#code-and-data"><img src="https://img.shields.io/badge/Code-Coming_Soon-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Code: Coming soon"></a>
   <a href="#code-and-data"><img src="https://img.shields.io/badge/Data-Coming_Soon-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Data: Coming soon"></a>
 </p>
@@ -146,7 +146,7 @@ available.
 
 **[Read the paper (PDF)](./VibePrevisBench.pdf)** — VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender.
 
-arXiv: coming soon.
+The PDF mirrors the latest [arXiv version (v2)](https://arxiv.org/abs/2611.15789v2).
 
 ## 📊 Evaluation
 
